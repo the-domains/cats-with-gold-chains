@@ -1,7 +1,7 @@
 name: Cats With Gold Chains
 favicon: null
-layout_spectrum: 0.5123199189547449
-typography_spectrum: 0.5464606606401503
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.3826547923963517
-  lightness: 0.21811576024629176
-  saturation: 0.6148385009728372
-  rhythmicContrast: 0.9891281137242913
+  brandStrength: 0.0625
+  lightness: 0.4375
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
